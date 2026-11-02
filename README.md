@@ -32,7 +32,7 @@ The dashboard transforms raw sales data into meaningful insights through interac
 
 ## 🖼️ Dashboard Preview
 
-![Excel Sales Dashboard](Dashboard_Screenshot.png)
+![Excel Sales Dashboard](image.png)
 
 ---
 
